@@ -7,4 +7,8 @@
         <item name="android:windowContentTransitions">true</item>
     </style>
 
+    <style name="Theme.Bacon.Detail" parent="Theme.Bacon">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
 </resources>
