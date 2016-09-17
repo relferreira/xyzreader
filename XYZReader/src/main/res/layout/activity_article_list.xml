@@ -18,11 +18,12 @@
             android:clipToPadding="false"
             android:scrollbarStyle="outsideOverlay"
             android:padding="@dimen/list_side_margin" />
+
     </android.support.v4.widget.SwipeRefreshLayout>
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
-        android:layout_height="112dp"
+        android:layout_height="wrap_content"
         android:elevation="@dimen/appbar_elevation"
         app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
